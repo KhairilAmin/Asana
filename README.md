@@ -1,5 +1,5 @@
 # Asana-ToolManajemenProyek
-> Nizar Abdurrahman (19081010025)
+> Mohammad Khairil Amin (19081010004)
 
 ## Tentang Asana
   Asana adalah sebuah aplikasi manajemen tugas dan proyek yang membantu individu dan tim dalam mengatur, mengelola, dan melacak proyek dan tugas secara efisien. Asana dirancang untuk membantu tim bekerja secara terkoordinasi, mengurangi kebingungan, dan meningkatkan produktivitas.
